@@ -10,6 +10,14 @@ In your Gemfile, add this line:
 
 Then, run `bundle install`.
 
+In your app/assets/javascripts/application.js, add this line:
+
+    //= require jqcloud
+
+In your app/assets/stylesheets/application.css, add this line:
+
+    *= require jqcloud
+
 You're done!
 
 ### Special Thanks
