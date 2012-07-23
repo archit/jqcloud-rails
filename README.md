@@ -22,4 +22,4 @@ You're done!
 
 ### Special Thanks
 
-https://github.com/DukeLeNoir/jQCloud
+https://github.com/lucaong/jQCloud
