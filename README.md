@@ -1,6 +1,6 @@
 # jqcloud-rails
 
-jqcloud.js for Rails 3.1+ asset pipeline.
+jqcloud.js for Rails 4.0+ asset pipeline.
 
 ### Installation
 
@@ -22,4 +22,8 @@ You're done!
 
 ### Special Thanks
 
+For jQCloud < 1.0.4
 https://github.com/lucaong/jQCloud
+
+For jQCload > 1.0.4 - 2.0.1+
+https://github.com/mistic100/jQCloud
