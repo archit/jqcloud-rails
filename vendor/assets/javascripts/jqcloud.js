@@ -144,10 +144,10 @@
             top = options.center.y - height / 2.0;
 
         // Save a reference to the style property, for better performance
-        var word_style = word_span[0].style;
-        word_style.position = "absolute";
-        word_style.left = left + "px";
-        word_style.top = top + "px";
+        //var word_style = word_span[0].style;
+        //word_style.position = "absolute";
+        //word_style.left = left + "px";
+        //word_style.top = top + "px";
 
         while(hitTest(word_span[0], already_placed_words)) {
           // option shape is 'rectangular' so move the word in a rectangular spiral
